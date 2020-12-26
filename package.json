@@ -1,0 +1,19 @@
+{
+  "name": "deneme",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Redingoo",
+  "license": "ISC",
+  "dependencies": {
+    "discord-music-player": "^5.0.4",
+    "discord.js": "^12.4.1",
+    "erela.js": "^1.1.8",
+    "opusscript": "0.0.7",
+    "proton-io": "^0.1.5",
+    "wio.db": "^3.0.1"
+  }
+}
